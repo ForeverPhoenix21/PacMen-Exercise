@@ -1,7 +1,9 @@
 # PacMen-Exercise
 The PacMen exercise was created for MITxPro full stack web development program. </br>
 
-<img src= "./images/PacMan1.png" width= "200" />
+<a href= "https://foreverphoenix21.github.io/PacMen-Exercise/">
+<img src= "./images/PacMan1.png" alt = "Pacman Pic" width= "200" />
+</a>
 
 ## Description:
 
