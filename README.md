@@ -5,9 +5,6 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Description:
 
-<p> The PacMen Exercise demonstrates how to pull objects from arrays and the how to 
-manipulate objects in the DOM</p> <br>
-
 <p> You can add PacMen to the screen by clicking the "Add Pacman" button. Set the Pacmen in motion by clicking the "Start Pacmen" button </p>
 
 ## Installation:
@@ -16,7 +13,8 @@ manipulate objects in the DOM</p> <br>
 
 ## Usage:
 
-<p> This exercise was made to demonstrate asynchronous programing techniques along with the use of map markers. </p>
+<p> The PacMen Exercise demonstrates how to pull objects from arrays and the how to 
+manipulate objects in the DOM</p> 
 
 ## Roadmap:
 
