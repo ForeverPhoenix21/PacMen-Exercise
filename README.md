@@ -5,7 +5,8 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 
 ## Description:
 
-<p> Real-Time-Bus-Tracker is a project that animates the bus route traveling between MIT School of Technology and Harvard on Mass Ave in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTA developer resources website.</p> <br>
+<p> The PacMen Exercise demonstrates how to pull objects from arrays and the
+manipulation of the DOM</p> <br>
 
 <p>  Have fun manipulating the bus route by entering in your own longitude and latitude coordinates in the scripts.js file.</p>
 
