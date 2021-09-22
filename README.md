@@ -1,7 +1,7 @@
 # PacMen-Exercise
 The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. </br>
 
-<img src= "busTracker.png" width= "200" />
+<img src= "./images/PacMan1.png" width= "200" />
 
 ## Description:
 
