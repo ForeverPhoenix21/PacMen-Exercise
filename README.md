@@ -10,8 +10,8 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 <p> You can add PacMen to the screen by clicking the "Add Pacman" button. Set the Pacmen in motion by clicking the "Start Pacmen" button </p>
 
 ## Installation:
-
-<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive. </p>   
+<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive.
+</p> </br>  <p> You can also run the program by clicking on the Pacman picture in this readme file. </p>
 
 ## Usage:
 
@@ -25,11 +25,9 @@ manipulate objects in the DOM</p>
 ***
 
 **<p> Future updates: </p>**
-- Update code to actively track local buses in Boston
-- Add pins with discriptions to historical landmarks
-- Add pins to my favorite bars and breweries
-- Create buttons for different routes
-- Create a line trail of the route performed
+- Create collison barriers for pacmen to collide with. 
+- Make the packmen change colors/size when colliding against a wall.
+- Add different addition buttons to manipulate the pacmen on the screen. 
 
 ## Support:
 
