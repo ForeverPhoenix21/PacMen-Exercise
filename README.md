@@ -5,10 +5,10 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Description:
 
-<p> The PacMen Exercise demonstrates how to pull objects from arrays and the
-manipulation of the DOM</p> <br>
+<p> The PacMen Exercise demonstrates how to pull objects from arrays and the how to 
+manipulate objects in the DOM</p> <br>
 
-<p>  Have fun manipulating the bus route by entering in your own longitude and latitude coordinates in the scripts.js file.</p>
+<p> You can add PacMen to the screen by clicking the "Add Pacman" button. Set the Pacmen in motion by clicking the "Start Pacmen" button </p>
 
 ## Installation:
 
