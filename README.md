@@ -28,7 +28,7 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 **<p> Future updates: </p>**
 - Create collison barriers for pacmen to collide with. 
 - Make the packmen change colors/size when colliding against a wall.
-- Add different addition buttons to manipulate the pacmen on the screen. 
+- Add functinal buttons that can manipulate the pacmen on the screen. 
 
 ## Support:
 
