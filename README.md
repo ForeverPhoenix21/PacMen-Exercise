@@ -17,7 +17,7 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Usage:
 
-  <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watch the Pacmen animate the screen. </p>
+  <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watching the Pacmen animate the screen. </p>
 
 ## Roadmap:
 
