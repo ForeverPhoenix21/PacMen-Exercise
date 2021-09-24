@@ -7,9 +7,9 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Description:
 
-<p> The PacMen Exercise was made for MITxPRO full-stack program. This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
-
 <p> The PacMen-Exercise creates Pacmen on the screen which is done through a function coded in the Pacemen.JS file.</p>
+
+<p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
 
 ## Installation:
 <p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive.
@@ -17,7 +17,7 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Usage:
 
-  <p>You can add the PacMen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. </p>
+  <p>You can add the Pacmen to the screen by clicking the "Add Pacman" button. You can set the Pacmen in motion by clicking the "Start Pacmen" button. Have fun watch the Pacmen animate the screen. </p>
 
 ## Roadmap:
 
