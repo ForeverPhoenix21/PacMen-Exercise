@@ -7,7 +7,7 @@ The PacMen exercise was created for MITxPro full stack web development program. 
 
 ## Description:
 
-<p> The PacMen-Exercise creates Pacmen on the screen which is done through a function coded in the Pacemen.JS file.</p>
+<p> The PacMen-Exercise creates Pacmen through a function coded in the Pacemen.JS file. The Pacmen can be set in motion by clicking the start button. The velocities of the Pacmen is set by Math.Random().</p>
 
 <p> This exercise was built to demonstrate how pulled objects from arrays can be manipulated in the DOM. Coded in JavaScript, check out the pacmen.js for additional details.</p> 
 
